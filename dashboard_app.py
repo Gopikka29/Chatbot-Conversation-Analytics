@@ -83,4 +83,4 @@ st.markdown("""
   - 🔴 Power Users (very high activity)
 """)
 
-st.caption("Built by **Kamel Hawila** — Project 2025 🚀")
+st.caption("Built by **Gopikka V S** — NIT Trichy 2024 🚀")
